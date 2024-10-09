@@ -1,0 +1,28 @@
+C:\Users\armin\Downloads\homework1\bin\Debug\net8.0\homework1.exe
+C:\Users\armin\Downloads\homework1\bin\Debug\net8.0\homework1.deps.json
+C:\Users\armin\Downloads\homework1\bin\Debug\net8.0\homework1.runtimeconfig.json
+C:\Users\armin\Downloads\homework1\bin\Debug\net8.0\homework1.dll
+C:\Users\armin\Downloads\homework1\bin\Debug\net8.0\homework1.pdb
+C:\Users\armin\Downloads\homework1\obj\Debug\net8.0\homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armin\Downloads\homework1\obj\Debug\net8.0\homework1.AssemblyInfoInputs.cache
+C:\Users\armin\Downloads\homework1\obj\Debug\net8.0\homework1.AssemblyInfo.cs
+C:\Users\armin\Downloads\homework1\obj\Debug\net8.0\homework1.csproj.CoreCompileInputs.cache
+C:\Users\armin\Downloads\homework1\obj\Debug\net8.0\homework1.dll
+C:\Users\armin\Downloads\homework1\obj\Debug\net8.0\refint\homework1.dll
+C:\Users\armin\Downloads\homework1\obj\Debug\net8.0\homework1.pdb
+C:\Users\armin\Downloads\homework1\obj\Debug\net8.0\homework1.genruntimeconfig.cache
+C:\Users\armin\Downloads\homework1\obj\Debug\net8.0\ref\homework1.dll
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\bin\Debug\net8.0\homework1.exe
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\bin\Debug\net8.0\homework1.deps.json
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\bin\Debug\net8.0\homework1.runtimeconfig.json
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\bin\Debug\net8.0\homework1.dll
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\bin\Debug\net8.0\homework1.pdb
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\obj\Debug\net8.0\homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\obj\Debug\net8.0\homework1.AssemblyInfoInputs.cache
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\obj\Debug\net8.0\homework1.AssemblyInfo.cs
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\obj\Debug\net8.0\homework1.csproj.CoreCompileInputs.cache
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\obj\Debug\net8.0\homework1.dll
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\obj\Debug\net8.0\refint\homework1.dll
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\obj\Debug\net8.0\homework1.pdb
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\obj\Debug\net8.0\homework1.genruntimeconfig.cache
+C:\Users\armin\OneDrive\Рабочий стол\Uni\Annee 2\C#\Homework\task3\obj\Debug\net8.0\ref\homework1.dll
